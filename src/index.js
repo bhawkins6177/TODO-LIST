@@ -1,7 +1,10 @@
-console.log('it works! again?')
+console.log('it wor?yes?')
+   
 
-   import { homePage } from "./home";
+   import { homePage, taskArray } from "./home";
    import './style.css';
-
+   console.log(taskArray)
+   
+   
    homePage();
 
